@@ -358,3 +358,23 @@ form {
 .fairy {
   background-color: #d685ad;
 }
+
+/* media-queries */
+
+@media (max-width: 700px) {
+  .search-text {
+    font-size: 1.5rem;
+  }
+
+  #search-poke {
+    width: 300px;
+  }
+
+  #search-button {
+    width: 300px;
+  }
+
+  #random-button {
+    width: 300px;
+  }
+}

@@ -1,6 +1,6 @@
  # Pokemon cards viewer
  
- You can search your favourite pokemons and check out their stats! 
+ You can search your favourite pokemon and check out their stats! 
  
  If you are undecided, let the random button choose the pokemons for you.
  

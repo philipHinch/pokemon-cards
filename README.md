@@ -6,12 +6,14 @@
  
  Technologies used:
  
- *HTML
- *CSS
- *JAVASCRIPT
+* HTML
+* CSS
+* VANILLA JAVASCRIPT
  
  ![Preview1](/images/preview1.png)
+ ---
  ![Preview2](/images/preview2.png)
+ ---
  ![Preview3](/images/preview3.png)
  
  Click the card for an awesome effect!

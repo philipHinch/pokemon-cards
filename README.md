@@ -10,9 +10,9 @@
  *CSS
  *JAVASCRIPT
  
- ![GitHub Logo](/images/preview.png)
- ![GitHub Logo](/images/preview2.png)
- ![GitHub Logo](/images/preview3.png)
+ ![Preview1](/images/preview1.png)
+ ![Preview2](/images/preview2.png)
+ ![Preview3](/images/preview3.png)
  
  Click the card for an awesome effect!
  
